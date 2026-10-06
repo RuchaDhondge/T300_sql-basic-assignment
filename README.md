@@ -72,11 +72,14 @@ The script will:
 ## Task Execution Screenshots
 
 ### 1. Aggregate Functions (Task 12)
+![Task 12 - Aggregate Functions](screenshots/Task12-Aggregate%20Functions.png)
 
 ---
 
 ### 2. INNER JOIN (Task 15)
+![Task 15 - INNER JOIN](screenshots/Task15-INNER%20JOIN.png)
 
 ---
 
 ### 3. CREATE TABLE Publishers (Task 21)
+![Task 21 - CREATE TABLE Publishers execution](screenshots/Task21-CREATE%20TABLE%20Publishers%20execution.png)
